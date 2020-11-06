@@ -1,0 +1,29 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+    font-family: 'Syne Mono', monospace; /* font family h*/
+}
+.carousel-inner img{
+
+
+ height: 80vh;
+ width: 100%;
+
+ 
+  }
+  .img-fluid{
+      height:200px !important;  /* if kaam na kre auto set ho to !important likh do aage eg ht:60% important!*/
+      width: 80%;
+    margin-left: 50px;
+  }
+
+  nav{
+      background-color: rgb(202, 252, 188);
+  }
+ .rock-climb{
+     height: 20vh;
+     width: 30vw;
+ }
+
+ footer{
+     background-color: rgb(198, 91, 248);
+ }
